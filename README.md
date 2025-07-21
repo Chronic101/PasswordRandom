@@ -2,7 +2,7 @@
 
 Script en python el cual crea contraseñas robustas
 
-# Instalacion
+# Instalación
 
 ```bash
 git clone https://github.com/Chronic101/PasswordRandom.git
