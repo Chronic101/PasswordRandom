@@ -1,6 +1,6 @@
 # PasswordRandom
 
-Script en python el cual crea contraseñas robustas
+Script en python el cual crea contraseñas robustas.
 
 # Instalación
 
